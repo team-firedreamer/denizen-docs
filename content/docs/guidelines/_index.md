@@ -7,7 +7,7 @@ sidebar:
 ---
 
 ## Engine Values
-**Shadow Cascade Splits:** 0.06, 0.134, 0.267, n  
+**[Shadow Splits:](/docs/glossary/#shadow-splits)** 0.06, 0.134, 0.267, n  
 **Shadow Length:** 150  
 **Shadow Blur:** 1.35  
 **Shadowmap Resolution:** *Ultra: 8192, High: 4096, Medium: 2048, Low: 1024*  

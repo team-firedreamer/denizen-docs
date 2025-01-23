@@ -15,3 +15,9 @@ Pretty much everything you need to know falls in one of these categories.
   {{< card link="docs/scripting" title="Scripting Reference" subtitle="Using the scripting system to set up character interactions, world events, and direct narrative sequences." icon="code" >}}
   {{< card link="docs/systems" title="Systems" subtitle="Detailed information about all the game systems. Here you will find info on topics such as the game loop, NPC behaviors, questing etc." icon="chip" >}}
 {{< /cards >}}
+
+## Glossary
+Need to know what specific terms or words mean? Check out the Glossary.
+{{< cards >}}
+  {{< card link="docs/systems" title="Systems" subtitle="Detailed information about all the game systems. Here you will find info on topics such as the game loop, NPC behaviors, questing etc." icon="chip" >}}
+{{< /cards >}}
