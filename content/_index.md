@@ -1,10 +1,10 @@
 ---
-title: Firedreamer Developer and Modding Documentation
+title: 
 toc: false
 ---
-![Causality Engine](/images/causalitylogo.png)
+![Causality Engine](/images/DenizenSplash.png)
 ## Main Page
-Welcome to the Developer and Modding Documentation site for Firedreamer's Causality Engine. Consider this a living help file where you'll find everything related to the processes
+Welcome to the reference and documentation site for Denizen. Consider this a living help file where you'll find everything related to the processes
 at Firedreamer, guidelines, and how to use the modding/developer tools.
 
 ## Explore

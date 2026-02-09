@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Firedreamer Developer and Modding Documentation
+title: 
 
 # import hextra as module
 theme: hextra
@@ -32,11 +32,11 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
+      path: images/logo.png
+      dark: images/logo.png
       link: /
-      width: 40
-      height: s0
+      width: 200
+      
 
   footer:
     displayCopyright: true
