@@ -1,10 +1,10 @@
 ---
-title: 
+title:    
 toc: false
 ---
-![Causality Engine](/images/DenizenSplash.png)
+![Denizen](/images/DenizenSplash.png)
 ## Main Page
-Welcome to the reference and documentation site for Denizen. Consider this a living help file where you'll find everything related to the processes
+Welcome to the reference and documentation site for Denizen. The Denizen Construction Set is our bespoke editor built on top of the Godot Engine. Consider this a living help file where you'll find everything related to the processes
 at Firedreamer, guidelines, and how to use the modding/developer tools.
 
 ## Explore
